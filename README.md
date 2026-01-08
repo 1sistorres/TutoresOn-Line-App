@@ -30,8 +30,3 @@ TutoresOn-Line es una solución tecnológica diseñada para facilitar el acceso 
 - ✅ Autenticación segura de usuarios (JWT).
 - ✅ Panel de administración interactivo con gráficas.
 - ✅ Exportación de reportes en formato PDF/Excel.
-
-## 🧠 Lo que aprendí (Esto les encanta a los reclutadores de prácticas)
-- Implementación de arquitectura MVC.
-- Manejo de estados complejos con Redux/Context API.
-- Optimización de consultas a la base de datos para mejorar el rendimiento.
